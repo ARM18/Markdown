@@ -61,7 +61,7 @@ Usar los títulos con la almohadilla `#` y para anclar el título a una tabla de
 
 ### Insertar una linea de codigo
 
-Encerrar la linea de código entre la tilde al revés ` Código en ASCII: alt96
+Encerrar la linea de código entre la tilde al revés ` 
 
 Ejemplo:
 
